@@ -1,0 +1,25 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "hong kong cone hat",
+      "Type": "model",
+      "Org": "zelestra",
+      "Ident": "hongkongconehat",
+      "Tags": "model hong kong cone hat",
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": null,
+      "EditorReferences": null,
+      "Metadata": {
+        "SingleAssetSource": "models/hong kong cone hat.vmdl"
+      }
+    }
+  }
+}
